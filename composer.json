@@ -1,0 +1,30 @@
+{
+  "type": "library",
+  "name": "matviichuk/notification-service-sdk",
+  "description": "Notification service SDK",
+  "keywords": [
+    "viber",
+    "sms",
+    "email",
+    "Mailerlite",
+    "Asterisk",
+    "Infobip"
+  ],
+  "license": "MIT",
+  "version": "1.0",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Igor Matviichuk",
+      "email": "igor.matviichuk1990@gmail.com"
+    }
+  ],
+  "require": {
+    "guzzlehttp/guzzle": "~6.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "matviichuk\\NsSdk\\": "src"
+    }
+  }
+}
