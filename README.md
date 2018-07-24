@@ -1,6 +1,6 @@
 Ns SDK
 =============
-Notification Service SDK for http://ns.slg.tools API, working with GMS-worldwide Api, Mailerlite, Asterisk, Infobip.
+Notification Service SDK working with GMS-worldwide Api, Mailerlite, Asterisk, Infobip.
 You can send messages to a group of users or only one, by any of the sending channels: sms, viber, email.
 
 Installation
